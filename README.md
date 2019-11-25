@@ -1,3 +1,5 @@
+(RASCUNHO, AINDA VOU REVISAR ATÉ AS 00:00 DE HOJE)
+
 # projeto_XY
 Projeto sobre novo sistema em nuvem para a XY Brasil
 
