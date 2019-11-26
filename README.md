@@ -12,7 +12,7 @@ Com soluções SaaS é possível ampliar o produtividade da equipe de TI da empr
 Quando se trata de segurança o SaaS apresenta uma vantagem muita grande, uma delas é que mesmo em caso de ataque a equipe de segurança do fornecedor, consegue isolar o problema em um determinado cluster e manter outro datacenter funcionando como se nada tivesse acontecido. Outra grande vantagem é que em casos extremos as empresas SaaS se responsabilizam por possíveis danos e perdas, já __quando acontece algum incidente com um sistema _in-house_ empresa acaba levando todo prejuizo financeiro e jurídico sozinha__.
 
 ## Tatica de implantação
-Como a empresa já tem vários sistemas rodando on-premisses a primeira opção seria buscar uma solução que já englobasse todos os sistemas em um só, a segunda opção seria um sistema que faz a maior parte das operações sendo necessário adicionar algumas customizações menores e a terceira opção seria a integração de vários sistemas SaaS, por exemplo, o setor de vendas vai usar o  ECM Fluig juntamente com o SugarCRM(SaaS) enquanto a equipe de Marketing vai usar uma solução SalesForce para as campanhas B2B e SharpSping para as campanhas B2C, nada impede que a equipe de TI trabalhe com maior foco no tratamento de dados relevantes e alimente em fluxo contínuo [chartio.com](chartio.com) para que os gestores da empresa possam ver os dados mais relevantes em um só lugar.
+Como a empresa já tem vários sistemas rodando on-premisses a primeira opção seria buscar uma solução que já englobasse todos os sistemas em um só, a segunda opção seria um sistema que faz a maior parte das operações sendo necessário adicionar algumas customizações menores e a terceira opção seria a integração de vários sistemas SaaS, por exemplo, o setor de vendas vai usar o  ECM Fluig juntamente com o SugarCRM(SaaS) enquanto a equipe de Marketing vai usar uma solução SalesForce para as campanhas B2B e SharpSping para as campanhas B2C, nada impede que a equipe de TI trabalhe com maior foco no tratamento de dados relevantes e alimente em fluxo contínuo [//chartio.com](chartio.com) para que os gestores da empresa possam ver os dados mais relevantes em um só lugar.
 __Assim temos:__
 * Tatica #1: SaaS Monolítico
 * Tatica #2: SaaS com extensões
@@ -30,7 +30,7 @@ Ainda que a empresa tenha encontrado um SaaS monolitico que vai cobrir todas as 
 
 #### Migração de sistemas-periféricos
 Sistemas perifericos são sistemas que não vão impactar diretamente na função principal da empresa durante a sua migração.
-Vamos supor que a empresa use um _sisteminha_ que o pessoal do TI desenvolveu há muito tempo usando ASP e VB para cuidar do processo de recrutamento e seleção, isso pode ser subistituido pelo [https://dynamics.microsoft.com/pt-br/](MS Dynamics 365)
+Vamos supor que a empresa use um _sisteminha_ que o pessoal do TI desenvolveu há muito tempo usando ASP e VB para cuidar do processo de recrutamento e seleção, isso pode ser subistituido pelo [https://dynamics.microsoft.com](MS Dynamics 365)
 
 #### Migração de sistemas-core
 Sistemas _core_ são sistemas que impactam diretamente no dia-a-dia da empresa.
