@@ -95,4 +95,4 @@ Uma vez implantado o sistema uma das tarefas da equipe de TI é monitorar e gera
 * Comparar todos os resultados da métricas SaaS com os resultados das métricas dos sistemas On-Premisses para fazer uma análise constante da viabilidade e ROI
 
 ## Conclusão
-A menos que a empresa tenha a necessidade de poder colocar fogo no datacente a qualquer momento para apagar os dados, SaaS é certamente a opção mais viável para empresas que querem crescer.
+A menos que a empresa tenha a necessidade de poder colocar fogo no datacenter a qualquer momento para apagar os dados e torrar um bom dinheiro, SaaS é certamente a opção mais viável para empresas que querem crescer.
